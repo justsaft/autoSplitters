@@ -1,1 +1,5 @@
+/.git
 /.vs
+/.vscode
+*.CT
+*.code-workspace
